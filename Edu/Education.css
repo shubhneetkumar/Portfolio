@@ -29,11 +29,18 @@ html,body{
     color: gray;
     display: flex;
     align-items: center;
-    justify-content: center;
 
+}
+.nav a{
+    text-decoration: none;
+    color: white;
+    font-size: 1.2vw;
+    margin-left: 20px;
 }
 .nav h2{
     font-size: 5vw;
+    color: white;
+    margin-left: 380px;
 }
 .main{
     background-color: black;
